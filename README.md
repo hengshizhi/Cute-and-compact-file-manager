@@ -1,4 +1,4 @@
-# Cute-web-file-management-system
+# Cute and compact file manager
 一个很小的文件管理系统，临时写来用的，配置文件懂得都懂
 ````
 host = "0.0.0.0" # 。。。
